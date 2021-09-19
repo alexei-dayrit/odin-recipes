@@ -1,0 +1,1 @@
+This is my first project. I'm tasked with building a basic recipe website which will have a main index page that links to recipes. So far I've demonstrated that I can create a repository on GitHub and transfer it onto my mac. I'm slowly learning how to navigate the terminal.
