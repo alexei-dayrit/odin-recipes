@@ -1,0 +1,22 @@
+.first-page {
+    background-color: grey;
+}
+
+.recipe-link {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+
+.second-page {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    color: tomato;
+}
